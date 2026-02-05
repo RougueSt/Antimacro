@@ -1,0 +1,4 @@
+<meta>
+  <info author="rougue_" type="script" name="AntiMacro Script" version="1.0" description="BAGULHO È BOM FIO"/>
+  <script src="c_Antimacro.lua" type="client" cache="false"/>
+</meta>
